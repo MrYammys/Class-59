@@ -1,0 +1,109 @@
+#welcome {
+    text-align: center;
+    background: linear-gradient(pink 0%, blue 100%);
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 400px;
+    height: 300px;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 30px;
+}
+
+p {
+    font-size: 23px;
+    color: #6A1B9A
+}
+
+#section 2 {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.li {
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    font-family: Staatliches;
+    color: blue;
+    text-decoration: none;
+
+}
+
+.li:hover {
+    background-color: floralwhite;
+    font-size: 25px;
+    text-decoration: underline;
+    color: darkblue;
+    font-family: fantasy;
+}
+
+#hobby {
+    padding: 50px;
+    text-align: center;
+    font-size: 42;
+    background: linear-gradient(red 0%, pink 100%);
+
+
+}
+
+.menu {
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    font-family: sans-serif;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.line {
+    height: "6px";
+    background-color: black;
+    width: 70px;
+    margin: 8px;
+}
+
+#game {
+    background: linear-gradient(yellow 0%, green 100%);
+}
+
+.h1 {
+    text-decoration-color: indianred;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#player {
+    background: linear-gradient(pink 0%, yellow 100%);
+}
+
+#p2 {
+    color: skyblue;
+
+}
+
+.p3 {
+    font-size: 23px;
+    color: black;
+    text-decoration: underline;
+
+}
+
+#contact {
+    background: linear-gradient(white 0% black 100%)
+}
